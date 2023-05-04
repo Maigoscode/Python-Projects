@@ -1,4 +1,3 @@
-# Python program to print all
 # prime number in an interval
  
 def prime(x, y):
